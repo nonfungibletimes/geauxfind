@@ -18,7 +18,7 @@
       "Crawfish Acadiana",
       "Crawfish Time"
     ],
-    "lastUpdated": "2026-05-07T12:27:05.519Z"
+    "lastUpdated": "2026-05-08T11:31:13.766Z"
   },
   "seasonOutlook": [
     "2026 season is \"looking good\" per LSU AgCenter (Todd Fontenot, crawfish extension agent)",
@@ -119,8 +119,8 @@
       "address": "2019 Verot School Rd.",
       "city": "Lafayette",
       "hours": "Mon-Thu 5-9pm • Fri-Sat 4:30-10pm • Sun 4-9pm",
-      "priceSummary": "Boiled $5.59/lb • Live $2.00/lb • Boiled size: Large • Live size: Medium • Rating: 3/5",
-      "pricePerLbEstimate": 5.59,
+      "priceSummary": "Boiled $6.99/lb • Live $2.00/lb • Boiled size: Large • Live size: Medium • Rating: 3/5",
+      "pricePerLbEstimate": 6.99,
       "description": "Cajun camp atmosphere with strong evening crowd and drive-thru 10lb option.",
       "tags": [
         "Drive-Thru",
@@ -249,8 +249,8 @@
       "address": "1120 Veterans Memorial Dr.",
       "city": "Abbeville",
       "hours": "Tue/Wed/Fri/Sat 4-9pm",
-      "priceSummary": "Boiled $5.94/lb • Boiled size: Medium • Rating: 5/5",
-      "pricePerLbEstimate": 5.94,
+      "priceSummary": "Boiled $6.48/lb • Boiled size: Medium • Rating: 5/5",
+      "pricePerLbEstimate": 6.48,
       "description": "Family-owned, fresh crawfish from their own ponds.",
       "tags": [
         "Family-Owned",
@@ -320,6 +320,21 @@
   "extraSpots": [
     {
       "name": "Super 1 Foods",
+      "address": "2210 Veterans Memorial Dr.",
+      "city": "Abbeville",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Boiled $3.48/lb • Live $1.99/lb • Live size: Medium • Rating: 0/5",
+      "pricePerLbEstimate": 3.48,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-898-1255",
+      "rating": 0
+    },
+    {
+      "name": "Super 1 Foods",
       "address": "2240 Ambassador Caffery Pkwy",
       "city": "Lafayette",
       "hours": "Call for seasonal hours",
@@ -331,6 +346,36 @@
       ],
       "website": null,
       "phone": "337-735-7799",
+      "rating": 0
+    },
+    {
+      "name": "Super 1 Foods",
+      "address": "2418 South Union",
+      "city": "Opelousas",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Boiled $3.48/lb • Live $1.99/lb • Live size: Medium • Rating: 0/5",
+      "pricePerLbEstimate": 3.48,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-948-7802",
+      "rating": 0
+    },
+    {
+      "name": "Super 1 Foods",
+      "address": "200 Destination Pointe Lane",
+      "city": "Scott",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Boiled $3.48/lb • Live $1.99/lb • Live size: Medium • Rating: 0/5",
+      "pricePerLbEstimate": 3.48,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-210-2000",
       "rating": 0
     },
     {
@@ -454,6 +499,36 @@
       "rating": 4
     },
     {
+      "name": "Don's Seafood",
+      "address": "4309 Johnston St, Lafayette, LA 70503",
+      "city": "Lafayette",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Boiled $4.00/lb • Boiled size: Large • Rating: 0/5",
+      "pricePerLbEstimate": 4,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-981-1159",
+      "rating": 0
+    },
+    {
+      "name": "The Boozy & Boiling Barn",
+      "address": "6830 Ambassador Caffery Pkwy.",
+      "city": "Lafayette",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Boiled $4.25/lb • Live $2.94/lb • Boiled size: Small • Live size: Small • Rating: 3/5",
+      "pricePerLbEstimate": 4.25,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-330-4200",
+      "rating": 3
+    },
+    {
       "name": "Sack Daddy's Crawfish",
       "address": "210 North Saint Valerie St.",
       "city": "Abbeville",
@@ -497,21 +572,6 @@
       "website": null,
       "phone": "337-236-0662",
       "rating": 5
-    },
-    {
-      "name": "The Boozy & Boiling Barn",
-      "address": "6830 Ambassador Caffery Pkwy.",
-      "city": "Lafayette",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Boiled $4.50/lb • Boiled size: Small • Live size: Small • Rating: 3/5",
-      "pricePerLbEstimate": 4.5,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-330-4200",
-      "rating": 3
     },
     {
       "name": "S & S Crawfish",
@@ -889,18 +949,18 @@
       "rating": 5
     },
     {
-      "name": "Don's Seafood",
-      "address": "4309 Johnston St, Lafayette, LA 70503",
-      "city": "Lafayette",
+      "name": "R&M Boiling Point",
+      "address": "7413 Hwy. 90 W",
+      "city": "New Iberia",
       "hours": "Call for seasonal hours",
-      "priceSummary": "Boiled $6.00/lb • Boiled size: Large • Rating: 0/5",
-      "pricePerLbEstimate": 6,
+      "priceSummary": "Boiled $6.25/lb • Boiled size: Small • Rating: 0/5",
+      "pricePerLbEstimate": 6.25,
       "description": "Listed via The Crawfish App.",
       "tags": [
         "Price Tracker"
       ],
       "website": null,
-      "phone": "337-981-1159",
+      "phone": "337-365-7596",
       "rating": 0
     },
     {
@@ -977,21 +1037,6 @@
       "website": null,
       "phone": "337-265-3770",
       "rating": 5
-    },
-    {
-      "name": "R&M Boiling Point",
-      "address": "7413 Hwy. 90 W",
-      "city": "New Iberia",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Boiled $6.99/lb • Boiled size: Small • Rating: 0/5",
-      "pricePerLbEstimate": 6.99,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-365-7596",
-      "rating": 0
     },
     {
       "name": "Richard's Seafood Patio",
@@ -1088,7 +1133,7 @@
       "address": "3200 Mills Street",
       "city": "Carencro",
       "hours": "Call for seasonal hours",
-      "priceSummary": "Live $2.75/lb • Live size: Large • Rating: 5/5",
+      "priceSummary": "Live $3.25/lb • Live size: Large • Rating: 5/5",
       "pricePerLbEstimate": null,
       "description": "Listed via The Crawfish App.",
       "tags": [
@@ -1160,21 +1205,6 @@
     },
     {
       "name": "Super 1 Foods",
-      "address": "2210 Veterans Memorial Dr.",
-      "city": "Abbeville",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Live size: Medium • Rating: 0/5",
-      "pricePerLbEstimate": null,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-898-1255",
-      "rating": 0
-    },
-    {
-      "name": "Super 1 Foods",
       "address": "215 W Willow St.",
       "city": "Lafayette",
       "hours": "Call for seasonal hours",
@@ -1201,36 +1231,6 @@
       ],
       "website": null,
       "phone": "337-988-2278",
-      "rating": 0
-    },
-    {
-      "name": "Super 1 Foods",
-      "address": "2418 South Union",
-      "city": "Opelousas",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Live $1.99/lb • Live size: Medium • Rating: 0/5",
-      "pricePerLbEstimate": null,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-948-7802",
-      "rating": 0
-    },
-    {
-      "name": "Super 1 Foods",
-      "address": "200 Destination Pointe Lane",
-      "city": "Scott",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Live $1.89/lb • Live size: Medium • Rating: 0/5",
-      "pricePerLbEstimate": null,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-210-2000",
       "rating": 0
     },
     {
