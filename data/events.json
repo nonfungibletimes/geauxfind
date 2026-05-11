@@ -1,22 +1,5 @@
 [
   {
-    "slug": "mothers-day-brunch-bubbly-at-dream-castle-2026-05-10",
-    "title": "Mother's Day Brunch & Bubbly at Dream Castle",
-    "date": "2026-05-10",
-    "endDate": "2026-05-10",
-    "time": "11:00 AM",
-    "venue": "Dream Castle Event Venue",
-    "address": "Lafayette, LA",
-    "city": "Lafayette",
-    "description": "Mother's Day brunch event.",
-    "category": "Food & Drink",
-    "image": null,
-    "link": "https://www.eventbrite.com/e/mothers-day-brunch-bubbly-at-dream-castle-tickets-1984239845793",
-    "source": "eventbrite_scraped",
-    "free": false,
-    "price": "From $0.00"
-  },
-  {
     "slug": "leda-job-fair-2026",
     "title": "LEDA Job Fair 2026",
     "date": "2026-05-12",
