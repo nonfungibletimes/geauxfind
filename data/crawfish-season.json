@@ -18,7 +18,7 @@
       "Crawfish Acadiana",
       "Crawfish Time"
     ],
-    "lastUpdated": "2026-05-18T12:10:02.382Z"
+    "lastUpdated": "2026-05-19T12:02:10.103Z"
   },
   "seasonOutlook": [
     "2026 season is \"looking good\" per LSU AgCenter (Todd Fontenot, crawfish extension agent)",
@@ -346,21 +346,6 @@
       ],
       "website": null,
       "phone": "337-735-7799",
-      "rating": 0
-    },
-    {
-      "name": "Super 1 Foods",
-      "address": "2418 South Union",
-      "city": "Opelousas",
-      "hours": "Call for seasonal hours",
-      "priceSummary": "Boiled $3.48/lb • Live $1.99/lb • Live size: Medium • Rating: 0/5",
-      "pricePerLbEstimate": 3.48,
-      "description": "Listed via The Crawfish App.",
-      "tags": [
-        "Price Tracker"
-      ],
-      "website": null,
-      "phone": "337-948-7802",
       "rating": 0
     },
     {
@@ -1193,7 +1178,7 @@
       "address": "1005 Golden Grain Rd.",
       "city": "Rayne",
       "hours": "Call for seasonal hours",
-      "priceSummary": "Live $3.00/lb • Live size: Medium • Rating: 5/5",
+      "priceSummary": "Live $3.25/lb • Live size: Medium • Rating: 5/5",
       "pricePerLbEstimate": null,
       "description": "Listed via The Crawfish App.",
       "tags": [
@@ -1231,6 +1216,21 @@
       ],
       "website": null,
       "phone": "337-988-2278",
+      "rating": 0
+    },
+    {
+      "name": "Super 1 Foods",
+      "address": "2418 South Union",
+      "city": "Opelousas",
+      "hours": "Call for seasonal hours",
+      "priceSummary": "Live $1.89/lb • Live size: Medium • Rating: 0/5",
+      "pricePerLbEstimate": null,
+      "description": "Listed via The Crawfish App.",
+      "tags": [
+        "Price Tracker"
+      ],
+      "website": null,
+      "phone": "337-948-7802",
       "rating": 0
     },
     {

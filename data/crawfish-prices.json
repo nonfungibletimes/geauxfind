@@ -1,7 +1,7 @@
 {
   "source": "The Crawfish App",
   "sourceLink": "https://www.thecrawfishapp.com/VendorSearchUi",
-  "lastUpdated": "2026-05-18T12:10:02.382Z",
+  "lastUpdated": "2026-05-19T12:02:10.103Z",
   "cities": [
     {
       "city": "Lafayette",
@@ -933,16 +933,16 @@
       "name": "Super 1 Foods",
       "address": "2418 South Union",
       "city": "Opelousas",
-      "boiledPricePerLb": 3.48,
-      "boiledPriceText": "$3.48/1LB",
-      "livePricePerLb": 1.99,
-      "livePriceText": "$1.99/1LB",
+      "boiledPricePerLb": null,
+      "boiledPriceText": "Unavailable/1LB",
+      "livePricePerLb": 1.89,
+      "livePriceText": "$1.89/1LB",
       "boiledSize": null,
       "liveSize": "Medium",
       "rating": 0,
       "phone": "337-948-7802",
       "hours": null,
-      "updatedAt": "05/07/2026 10:48 PM CST"
+      "updatedAt": "05/18/2026 09:00 AM CST"
     },
     {
       "name": "Boulet's Boil-N-Go Rayne",
@@ -980,14 +980,14 @@
       "city": "Rayne",
       "boiledPricePerLb": null,
       "boiledPriceText": "Unavailable/1LB",
-      "livePricePerLb": 3,
-      "livePriceText": "$3.00/1LB",
+      "livePricePerLb": 3.25,
+      "livePriceText": "$3.25/1LB",
       "boiledSize": null,
       "liveSize": "Medium",
       "rating": 5,
       "phone": "337-873-3619",
       "hours": null,
-      "updatedAt": "05/14/2026 11:57 PM CST"
+      "updatedAt": "05/18/2026 06:52 PM CST"
     },
     {
       "name": "Meche's Crawfish",
